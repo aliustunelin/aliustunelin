@@ -37,9 +37,9 @@ I like to train deep neural nets. 😅.
 	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
 	<a href="https://go.dev/" target="_blank"> 
 	<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="go" width="40" height="40"/> </a> 
-	<a href="https://aws.amazon.com/tr/lambda/features/" target="_blank"> 
+	<a href="https://aws.amazon.com/tr/lambda/?nc2=h_ql_prod_fs_lbd" target="_blank"> 
 	<img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="aws-lamda" width="40" height="40"/> </a> 
-	<a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html" target="_blank"> 
+	<a href="https://aws.amazon.com/tr/ec2/?nc2=h_ql_prod_fs_ec2" target="_blank"> 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg" alt="ec2" width="40" height="40"/> </a> 
 	<a href="https://aws.amazon.com/tr/s3/" target="_blank"> 
 	<img src="https://www.svgrepo.com/show/303446/aws-s3-logo.svg" alt="s3" width="40" height="40"/> </a>
