@@ -20,12 +20,6 @@
 
 - ⚡ Painful Truths, **things aren’t always #0000 and #FFFF**
 
-<h3 align="left">It's Me, Ali!</h3>
-
-These places used to be mulberry
-
-I like to train deep neural nets. 😅. 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-ustunel3338/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aliustunelin" height="30" width="40" /></a>
