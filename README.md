@@ -25,6 +25,11 @@
 <a href="https://www.linkedin.com/in/ali-ustunel3338/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aliustunelin" height="30" width="40" /></a>
 </p>
 
+<p align="right">
+<a href="https://leetcode.com/aliustunelin/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/458px-LeetCode_Logo_black_with_text.svg.png?20200122084501" alt="aliustunelin" height="30" width="40" /></a>
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://www.python.org/" target="_blank"> 
