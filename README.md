@@ -57,7 +57,7 @@
 	<img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry" width="40" height="40"/> </a>
 	<a href="https://www.arduino.cc/" target="_blank"> 
 	<img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/> </a>
-	
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/U-blox_logo.svg/800px-U-blox_logo.svg.png?20191005020648" alt="UBlox" width="40" height="40"/> </a>
 	<a href="https://developer.apple.com/xcode/" target="_blank"> 
 	<img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/> </a>
 	<a href="https://flutter.dev/" target="_blank"> 
