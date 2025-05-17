@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/koalafied_dev" target="blank"><img src="https://img.shields.io/twitter/follow/koalafied_dev?logo=twitter&style=for-the-badge" alt="aliustunelin" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **National Defance University**
+- 🔭 I’m currently working on **Newmind-AI**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **LLM's, MCP and Agentic Pipelines**
 
 <!-- - 👨‍💻 All of my projects are available at [https:// /#/portfolio](https:// /#/portfolio) cloud_cv_url -->
 
