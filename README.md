@@ -26,7 +26,36 @@
 </p>
 
 <h3 align="left">Badges:</h3>
-<img src="https://kaggle-summary-card.herokuapp.com/api?user=<alistnel>&extend" />
+
+<!-- Genel Kaggle Profil Kartınız -->
+<p align="center">
+  <img src="https://kaggle-summary-card.herokuapp.com/api?user=alistnel&extend" alt="Ali's Kaggle Profile Summary Card"/>
+</p>
+
+<!-- Özel Başarı Rozetleriniz -->
+<ul>
+  <li>
+    <img src="https://img.shields.io/badge/Kaggle-5%20Years%20on%20Kaggle-008ABC?logo=kaggle&logoColor=white&style=flat" alt="5 Years on Kaggle" height="25" valign="middle"/> <strong>5 Years on Kaggle</strong>
+    <br/><em>Kaggle platformunda 5 yıldır aktif.</em>
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Kaggle-Getting%20Started%20Competitor-4CAF50?logo=kaggle&logoColor=white&style=flat" alt="Getting Started Competitor" height="25" valign="middle"/> <strong>Getting Started Competitor</strong>
+    <br/><em>Made a submission to a Getting Started competition. Getting Started competitions are the easiest, most approachable competitions on Kaggle used as introductions to the field of machine learning.</em>
+  </li>
+  <li>
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alistnel/notebook/light?logo=kaggle" alt="Kaggle Notebooks Badge" height="25" valign="middle"/> <strong>Python Coder</strong>
+    <br/><em>Created a python notebook. Python is one of the most popular general purpose programming languages and has gained widespread use in the machine learning community. (Bu rozet, Kaggle Not Defterleri kategorisindeki güncel seviyenizi gösterir [5])</em>
+  </li>
+  <li>
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alistnel/dataset/light?logo=kaggle" alt="Kaggle Datasets Badge" height="25" valign="middle"/> <strong>Dataset Creator</strong>
+    <br/><em>Created a dataset. It’s easy to create a dataset on Kaggle and doing so is a great way to start a data science portfolio, share reproducible research, or work with collaborators on a project. (Bu rozet, Kaggle Veri Setleri kategorisindeki güncel seviyenizi gösterir [5])</em>
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Kaggle-Linked%20Dataset%20Creator-orange?logo=kaggle&logoColor=white&style=flat" alt="Linked Dataset Creator" height="25" valign="middle"/> <strong>Linked Dataset Creator</strong>
+    <br/><em>Created a dataset from a link to a remote URL, Github repository, or Google Cloud Storage bucket. This can be much quicker than uploading from your local machine.</em>
+  </li>
+</ul>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
