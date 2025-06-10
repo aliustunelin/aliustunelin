@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/koalafied_dev" target="blank"><img src="https://img.shields.io/twitter/follow/koalafied_dev?logo=twitter&style=for-the-badge" alt="aliustunelin" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **Newmind-AI**
+- 🔭 I’m currently working on **Nort Tech-AI**
 
 - 🌱 I’m currently learning **LLM's, MCP and Agentic Pipelines**
 
